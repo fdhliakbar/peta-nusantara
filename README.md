@@ -120,3 +120,5 @@ Jika Anda memiliki pertanyaan atau membutuhkan bantuan, silakan hubungi kami mel
 ---
 
 Demikian README.md untuk proyek Peta Nusantara. Semoga ini dapat membantu Anda dalam mendokumentasikan proyek dengan jelas dan profesional.
+
+![source: pexels-tomfisk-203211](https://github.com/fdhliakbar/peta-nusantara/assets/104522615/622d7a2f-75e2-4c45-b2db-1ac3f767b752)
