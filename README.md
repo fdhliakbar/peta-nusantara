@@ -115,7 +115,7 @@ Ya, Peta Nusantara telah dioptimalkan untuk digunakan di perangkat mobile maupun
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau membutuhkan bantuan, silakan hubungi kami melalui email di [support@petanusantara.com](mailto:support@petanusantara.com).
+Jika Anda memiliki pertanyaan atau membutuhkan bantuan, silakan hubungi kami melalui email di [fadhliakbar125@gmail.com](mailto:fadhliakbar125@gmail.com).
 
 ---
 
