@@ -1,10 +1,11 @@
-# Peta Nusantara
+# Peta Nusantara <img src="./src/assets/images/Cat.gif" alt="KON Group Gif" height="45px">
 
-Selamat datang di **Peta Nusantara**! Ini adalah proyek mandiri saya dalam bentuk Website yang dirancang untuk membantu Anda menemukan rute terpendek dan paling efisien di seluruh wilayah Nusantara. Website ini memberikan solusi navigasi yang optimal untuk berbagai kebutuhan perjalanan Anda, mulai dari perjalanan pribadi hingga rencana logistik komersial.
+Selamat datang di **Peta Nusantara**! Ini adalah proyek mandiri saya dalam bentuk Website yang dirancang untuk membantu Anda menemukan rute terpendek dan paling efisien di seluruh wilayah Nusantara.
+Website ini memberikan solusi navigasi yang optimal untuk berbagai kebutuhan perjalanan Anda, mulai dari perjalanan pribadi hingga rencana logistik komersial.
 
 ## Daftar Isi
 
-- [Peta Nusantara](#peta-nusantara)
+- [Peta Nusantara ](#peta-nusantara-)
   - [Daftar Isi](#daftar-isi)
   - [Fitur](#fitur)
   - [Cara Instalasi](#cara-instalasi)
@@ -27,6 +28,8 @@ Selamat datang di **Peta Nusantara**! Ini adalah proyek mandiri saya dalam bentu
 - **Penyesuaian Preferensi**: Sesuaikan rute berdasarkan preferensi pengguna seperti jalan tol, tanpa jalan tol, dan sebagainya.
 - **Peta Interaktif**: Peta dinamis dengan fitur zoom dan pan untuk melihat detail wilayah.
 - **Informasi Lalu Lintas Real-time**: Dapatkan update lalu lintas secara real-time untuk perencanaan perjalanan yang lebih baik.
+- **Asisten Perjalanan Virtual(Lisa)**: Menjawab pertanyaan seputar rute dan lokasi. Memberikan rekomendasi tempat wisata dan kuliner dan membantu menyediakan informasi seputar lalu lintas perjalanan.
+- **Penerjemahan Bahasa Real-Time**: Terjemahkan teks dan suara secara real-time untuk membantu pengguna yang tidak berbahasa Indonesia.
 
 ## Cara Instalasi
 
@@ -119,10 +122,11 @@ Ya, Peta Nusantara telah dioptimalkan untuk digunakan di perangkat mobile maupun
 bantuan, silakan hubungi kami melalui email di
 <a href="mailto:fadhliakbar125@gmail.com">fadhliakbar125@gmail.com</a>
 </p>
-<img src="./src/assets/images/KON-Group.gif" alt="KON Group Gif" height="80%" style="padding-left:80px">
 
 ---
 
+<p>
 Demikian README.md untuk proyek Peta Nusantara. Semoga ini dapat membantu Anda dalam mendokumentasikan proyek dengan jelas dan profesional.
+</p>
 
 ![source: pexels-tomfisk-203211](https://github.com/fdhliakbar/peta-nusantara/assets/104522615/622d7a2f-75e2-4c45-b2db-1ac3f767b752)
