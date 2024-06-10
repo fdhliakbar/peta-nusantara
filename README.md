@@ -115,7 +115,11 @@ Ya, Peta Nusantara telah dioptimalkan untuk digunakan di perangkat mobile maupun
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau membutuhkan bantuan, silakan hubungi kami melalui email di [fadhliakbar125@gmail.com](mailto:fadhliakbar125@gmail.com).
+<p>Jika Anda memiliki pertanyaan atau membutuhkan
+bantuan, silakan hubungi kami melalui email di
+<a href="mailto:fadhliakbar125@gmail.com">fadhliakbar125@gmail.com</a>
+</p>
+<img src="./src/assets/images/KON-Group.gif" alt="KON Group Gif" height="80%" style="padding-left:80px">
 
 ---
 
