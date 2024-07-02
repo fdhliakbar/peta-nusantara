@@ -16,6 +16,7 @@ Website ini memberikan solusi navigasi yang optimal untuk berbagai kebutuhan per
     - [Apa tujuan dari Peta Nusantara?](#apa-tujuan-dari-peta-nusantara)
     - [Bagaimana cara kerja rute terpendek?](#bagaimana-cara-kerja-rute-terpendek)
   - [Alur Program](#alur-program)
+  - [Pembagian Job](#pembagian-job)
   - [Kontak](#kontak)
 
 ## Fitur
@@ -88,6 +89,14 @@ Kami menggunakan algoritma Dijkstra untuk menghitung rute terpendek berdasarkan 
 
 - Pengguna
 - Aplikasi
+
+## Pembagian Job
+
+| Programmer                                                          | Laporan | UI/UX |
+| ------------------------------------------------------------------- | ------- | ----- |
+| [Muhamad Fadhli Akbar](https://github.com/fdhliakbar "fadhliakbar") | Evinda  |       |
+|                                                                     | Nadya   |       |
+|                                                                     | Qori    |       |
 
 ## Kontak
 
